@@ -1,3 +1,3 @@
 # VK-Resume-Project
 
-![alt text](./Site-page_photo.png)
+![site-page](./Site-page_photo.png)
